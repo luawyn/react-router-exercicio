@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  font-family: "Trebuchet MS";
+  max-width: 500px;
+  margin: 0 auto;
+}

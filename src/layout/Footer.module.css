@@ -1,0 +1,11 @@
+.teste {
+  height: 100vh;
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 2rem;
+  color: palevioletred;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
